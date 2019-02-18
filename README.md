@@ -1,6 +1,9 @@
 # mithril-ts-webpack-boilerplate
 My favorite mocking template
 
+## Note
+edit project's profiles in package.json.
+
 ## Structure
 ```
 src/ (sources to edit)
