@@ -1,0 +1,26 @@
+{
+	"name": "mithril-ts-webpack-boilerplate",
+	"version": "1.0.0",
+	"description": "My favorite mocking template",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "webpack-dev-server"
+	},
+	"keywords": [],
+	"author": "eihigh",
+	"license": "MIT",
+	"dependencies": {
+		"mithril": "^1.1.6"
+	},
+	"devDependencies": {
+		"ts-loader": "^5.3.3",
+		"typescript": "^3.3.3",
+		"@types/mithril": "^1.1.16",
+		"css-loader": "^2.1.0",
+		"style-loader": "^0.23.1",
+		"webpack": "^4.29.4",
+		"webpack-cli": "^3.2.3",
+		"webpack-dev-server": "^3.1.14"
+	}
+}
